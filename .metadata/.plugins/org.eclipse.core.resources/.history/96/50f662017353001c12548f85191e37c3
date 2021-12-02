@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ESIEA</groupId>
-  <artifactId>esiea.arch</artifactId>
+  <artifactId>app.arch</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>esiea.arch</name>
+  <name>app.arch</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
