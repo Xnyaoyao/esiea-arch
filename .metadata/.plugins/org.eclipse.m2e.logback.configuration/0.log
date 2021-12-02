@@ -141,3 +141,4 @@
 2021-12-02 12:05:16,799 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-02 12:05:16,800 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xinya\eclipse-workspace\esiea-arch\src\main\resources
 2021-12-02 12:05:16,805 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-02 12:05:16,806 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xinya\eclipse-workspace\esiea-arch\src\test\resources
